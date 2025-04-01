@@ -9,10 +9,18 @@
         <option value="$PROJECT_DIR$/03-RunnableInterface/pom.xml" />
         <option value="$PROJECT_DIR$/04-LambdaExpression/pom.xml" />
         <option value="$PROJECT_DIR$/05-JoinIsAlive/pom.xml" />
+        <option value="$PROJECT_DIR$/06-ThreadPriorities/pom.xml" />
+        <option value="$PROJECT_DIR$/06-ThreadPrioroties/pom.xml" />
+        <option value="$PROJECT_DIR$/07-SynchronizedKeyword/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/06-ThreadPriorities/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
