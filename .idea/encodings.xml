@@ -7,5 +7,7 @@
     <file url="file://$PROJECT_DIR$/07-SynchronizedKeyword/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-SynchronizedKeywords/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-SynchronizedKeywords/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-InterThreadCommunication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-InterThreadCommunication/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/06-ThreadPrioroties/pom.xml" />
         <option value="$PROJECT_DIR$/07-SynchronizedKeyword/pom.xml" />
         <option value="$PROJECT_DIR$/07-SynchronizedKeywords/pom.xml" />
+        <option value="$PROJECT_DIR$/08-InterThreadCommunication/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
