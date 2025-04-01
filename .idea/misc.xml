@@ -19,7 +19,6 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/06-ThreadPriorities/pom.xml" />
-        <option value="$PROJECT_DIR$/07-SynchronizedKeyword/pom.xml" />
       </set>
     </option>
   </component>
