@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="05-JoinIsAlive" />
+        <module name="02-ExtendThreadClass" />
         <module name="01-Introduction" />
+        <module name="07-SynchronizedKeyword" />
         <module name="04-LambdaExpression" />
         <module name="03-RunnableInterface" />
         <module name="06-ThreadPrioroties" />
-        <module name="02-ExtendThreadClass" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
